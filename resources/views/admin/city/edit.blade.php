@@ -3,7 +3,7 @@
 @section('content')
 
     @include('admin.includes.sidebar')
-
+<!-- things will  be ok aiseee -->
     <div class="page-wrapper">
         @if ($errors->any())
             <div class="alert alert-danger">
